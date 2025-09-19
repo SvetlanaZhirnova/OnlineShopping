@@ -9,6 +9,6 @@ public class Constants {
     public static final int ORDER_EXPIRATION_DAYS = 30;
 
     private Constants() {
-        // Utility class
+    
     }
 }
